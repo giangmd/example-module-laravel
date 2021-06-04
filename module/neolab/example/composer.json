@@ -1,0 +1,12 @@
+{
+    "name": "neolab/example",
+    "description": "Laravel Example module",
+    "authors": [
+        {
+            "name": "Neolab Memeber",
+            "email": "dev@neo-lab.vn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
